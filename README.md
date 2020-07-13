@@ -1,7 +1,7 @@
 # Boilerplate TS Project ( Create React App ) 🧑🏾‍💻
 
 
-That's a Boilerplate for a react project using Typescript, 
+That's my personal Boilerplate for a react project using Typescript, 
 Config **Prettier**, **ESlint** and **EditorConfig**
 
 To use this boilerplate, go to the folder on your terminal and run:
