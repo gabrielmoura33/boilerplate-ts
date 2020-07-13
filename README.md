@@ -10,8 +10,10 @@ To use this boilerplate, go to the folder on your terminal and run:
 
 After you clone the aplication, rename it and run the code:
 
-> _yarn install
+> $ yarn install
 
 Or 
 
-> _npm i
+> $ npm i
+
+Happy Hacking! 🤓
